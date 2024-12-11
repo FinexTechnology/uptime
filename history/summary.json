@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/istebudoktor.com.tr.ico",
     "slug": "iste-bu-doktor",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.58%",
+    "uptimeDay": "87.92%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 1295,
-    "timeDay": 1481,
-    "timeWeek": 1084,
+    "timeDay": 0,
+    "timeWeek": 1096,
     "timeMonth": 1295,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2024-12-10": 6
+      "2024-12-11": 74,
+      "2024-12-10": 100
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/istebuveteriner.com.tr.ico",
     "slug": "iste-bu-veteriner",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.58%",
+    "uptimeDay": "88.02%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 904,
-    "timeDay": 1106,
-    "timeWeek": 791,
+    "timeDay": 0,
+    "timeWeek": 790,
     "timeMonth": 904,
     "timeYear": 904,
     "dailyMinutesDown": {
-      "2024-12-10": 5
+      "2024-12-11": 74,
+      "2024-12-10": 99
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/istebuavukat.com.tr.ico",
     "slug": "iste-bu-avukat",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.59%",
+    "uptimeDay": "88.13%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 3045,
-    "timeDay": 1061,
-    "timeWeek": 982,
+    "timeDay": 0,
+    "timeWeek": 839,
     "timeMonth": 3045,
     "timeYear": 3045,
     "dailyMinutesDown": {
-      "2024-12-10": 3
+      "2024-12-11": 74,
+      "2024-12-10": 97
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/istebuokul.com.tr.ico",
     "slug": "iste-bu-okul",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.59%",
+    "uptimeDay": "88.24%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 1387,
-    "timeDay": 1086,
-    "timeWeek": 1043,
+    "timeDay": 0,
+    "timeWeek": 1094,
     "timeMonth": 1387,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2024-12-10": 2
+      "2024-12-11": 74,
+      "2024-12-10": 96
     }
   },
   {
@@ -85,18 +89,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/istebufirma.com.tr.ico",
     "slug": "iste-bu-firma",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.59%",
+    "uptimeDay": "88.34%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 2425,
-    "timeDay": 1518,
-    "timeWeek": 1146,
+    "timeDay": 0,
+    "timeWeek": 1165,
     "timeMonth": 2425,
     "timeYear": 2425,
     "dailyMinutesDown": {
-      "2024-12-10": 0
+      "2024-12-11": 74,
+      "2024-12-10": 94
     }
   }
 ]
